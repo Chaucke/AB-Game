@@ -23,4 +23,5 @@ Then a "Pair" will have a "Pair" has "opponent".
 After that the last 2 Players will play.
 After that you start again and this will continue until the win conditions or lose conditions are fulfilled.
 
-	
+important at the Start:	
+You have to choose a or b and then the actually Round will beginn and you can enter you real choice.
